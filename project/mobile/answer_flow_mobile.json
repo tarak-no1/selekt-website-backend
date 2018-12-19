@@ -1,0 +1,364 @@
+{
+  "price_question": {
+    "text": "what price range you are looking for?",
+    "question_type": "single_select",
+    "attribute": [
+      "price_range"
+    ],
+    "options": {
+      "1": {
+        "text": "0-10000",
+        "next_question": "price_range",
+        "value": "10000"
+      },
+      "2": {
+        "text": "10001-15000",
+        "next_question": "price_range",
+        "value": "15000"
+      }
+    }
+  },
+  "dimensions_question": {
+    "text": "among the following what features are important to you?",
+    "question_type": "multi_select",
+    "attribute": [
+      "dimension"
+    ],
+    "options": {
+      "1": {
+        "text": "camera",
+        "next_question": "feature",
+        "value": "camera_score"
+      },
+      "2": {
+        "text": "display",
+        "next_question": "feature",
+        "value": "display_score"
+      },
+      "3": {
+        "text": "battery",
+        "next_question": "feature",
+        "value": "battery_score"
+      },
+      "4": {
+        "text": "performance",
+        "next_question": "feature",
+        "value": "performance_score"
+      },
+      "5": {
+        "text": "memory",
+        "next_question": "feature",
+        "value": "memory_score"
+      },
+      "6": {
+        "text": "all",
+        "next_question": "feature",
+        "value": "overall_score"
+      }
+    }
+  },
+  "secondary_camera": {
+    "text": "How offen do you take selfies or make video calls?",
+    "question_type": "single_select",
+    "attribute": [
+      "front_camera_resolution"
+    ],
+    "options": {
+      "1": {
+        "text": "frequently",
+        "next_question": "percentile",
+        "value": "0.45"
+      },
+      "2": {
+        "text": "ocasionally",
+        "next_question": "percentile",
+        "value": "0.25"
+      },
+      "3": {
+        "text": "very rare",
+        "next_question": "percentile",
+        "value": "0.01"
+      }
+    }
+  },
+  "primary_camera": {
+    "text": "How offen do you use your phone to record videos?",
+    "question_type": "single_select",
+    "attribute": [
+      "video_resolution"
+    ],
+    "options": {
+      "1": {
+        "text": "frequently",
+        "next_question": "percentile",
+        "value": "0.45"
+      },
+      "2": {
+        "text": "ocasionally",
+        "next_question": "percentile",
+        "value": "0.25"
+      },
+      "3": {
+        "text": "very rare",
+        "next_question": "percentile",
+        "value": "0.01"
+      }
+    }
+  },
+  "display_size": {
+    "text": "Which among the following activities do you engage most frequently on mobile?",
+    "question_type": "single_select",
+    "attribute": [
+      "screen_size"
+    ],
+    "options": {
+      "1": {
+        "text": "watch videos/youtube/movies",
+        "next_question": "percentile",
+        "value": "0.5"
+      },
+      "2": {
+        "text": "reading/heavy browsing",
+        "next_question": "percentile",
+        "value": "0.45"
+      },
+      "3": {
+        "text": "gaming",
+        "next_question": "percentile",
+        "value": "0.35"
+      },
+      "4": {
+        "text": "food -ordering/E-commerce",
+        "next_question": "percentile",
+        "value": "0.25"
+      },
+      "5": {
+        "text": "chatting",
+        "next_question": "percentile",
+        "value": "0.01"
+      },
+      "6": {
+        "text": "social networking",
+        "next_question": "percentile",
+        "value": "0.01"
+      }
+    }
+  },
+  "display_type": {
+    "text": "You use your phone mostly in",
+    "question_type": "single_select",
+    "attribute": [
+      "display_type"
+    ],
+    "options": {
+      "1": {
+        "text": "sun light (outdoor, travelling etc)",
+        "next_question": "screen",
+        "value": "IPS/LCD"
+      },
+      "2": {
+        "text": "dim light (in a room, in a room with light, night time etc)",
+        "next_question": "screen",
+        "value": "oled/amoled/super amoled/retina"
+      },
+      "3": {
+        "text": "nothing in particular, anytime",
+        "next_question": "screen",
+        "value": "any"
+      }
+    }
+  },
+  "battery_comsumption": {
+    "text": "Which of the following do you use frequently?",
+    "question_type": "single_select",
+    "attribute": [
+      "talk_time",
+      "talk_time_3g",
+      "talk_time_4g"
+    ],
+    "options": {
+      "1": {
+        "text": "3G/ 4G",
+        "next_question": "percentile",
+        "value": "0.4"
+      },
+      "2": {
+        "text": "Office/ Home Wifi",
+        "next_question": "percentile",
+        "value": "0.2"
+      },
+      "3": {
+        "text": "2G",
+        "next_question": "percentile",
+        "value": "0.01"
+      }
+    }
+  },
+  "battery_usage": {
+    "text": "You spend most of your time on phone on",
+    "question_type": "single_select",
+    "attribute": [
+      "battery_capacity"
+    ],
+    "options": {
+      "1": {
+        "text": "Gaming",
+        "next_question": "percentile",
+        "value": "0.4"
+      },
+      "2": {
+        "text": "Watching movies/ youtube",
+        "next_question": "percentile",
+        "value": "0.2"
+      },
+      "3": {
+        "text": "Social Networking/ E-commerce/Browsing",
+        "next_question": "percentile",
+        "value": "0.15"
+      },
+      "4": {
+        "text": "Listening to music",
+        "next_question": "percentile",
+        "value": "0.01"
+      },
+      "5": {
+        "text": "Phone Calls/ Chatting",
+        "next_question": "percentile",
+        "value": "0.01"
+      }
+    }
+  },
+  "performance_games": {
+    "text": "What kinds of games do you usually play?",
+    "question_type": "single_select",
+    "attribute": [
+      "gpu_rank"
+    ],
+    "options": {
+      "1": {
+        "text": "High end games (Asphalt, NFS most-wanted)",
+        "next_question": "percentile",
+        "value": "0.25"
+      },
+      "2": {
+        "text": "Low -end games (Candycrush, stick cricket)",
+        "next_question": "percentile",
+        "value": "0.5"
+      },
+      "3": {
+        "text": "I don't play games on mobile",
+        "next_question": "percentile",
+        "value": "0.01"
+      }
+    }
+  },
+  "performance_app": {
+    "text": "Usually, which of the following apps do you run simultaneously?",
+    "question_type": "single_select",
+    "attribute": [
+      "ram_memory"
+    ],
+    "options": {
+      "1": {
+        "text": "Social Networking apps (Eg: Facebook, Whatsapp, Snapchat)",
+        "next_question": "percentile",
+        "value": "0.01"
+      },
+      "2": {
+        "text": "Low end gaming apps (Eg: Stick cricket, candycrush, mindgames)",
+        "next_question": "percentile",
+        "value": "0.01"
+      },
+      "3": {
+        "text": "E-commerce Apps(Eg: flipkart, amazon, myntra)",
+        "next_question": "percentile",
+        "value": "0.01"
+      },
+      "4": {
+        "text": "Entertainment apps (Eg: Netflix, hotstar, start sports)",
+        "next_question": "percentile",
+        "value": "0.3"
+      },
+      "5": {
+        "text": "High end gaming apps (Eg: Asphalt, Modern combat, FIFA)",
+        "next_question": "percentile",
+        "value": "0.6"
+      }
+    }
+  },
+  "memory_internal": {
+    "text": "Pick the ones that are most relevant to you.",
+    "question_type": "single_select",
+    "attribute": [
+      "internal_memory"
+    ],
+    "options": {
+      "1": {
+        "text": "I play high-end games like Asphalt, Modern Combat, FIFA etc",
+        "next_question": "percentile",
+        "value": "0.45"
+      },
+      "2": {
+        "text": "I play low end games like candy crush, stick cricket, angry birds etc.",
+        "next_question": "percentile",
+        "value": "0.25"
+      },
+      "3": {
+        "text": "I store a lot of videos/ Movies in my phone",
+        "next_question": "percentile",
+        "value": "0.45"
+      },
+      "4": {
+        "text": "I store a lot of pics/ music in my phone",
+        "next_question": "percentile",
+        "value": "0.25"
+      },
+      "5": {
+        "text": "I install more than 100 apps in my phone",
+        "next_question": "percentile",
+        "value": "0.45"
+      }
+    }
+  },
+  "memory_external": {
+    "text": "Which among the following micro sd cards will you buy?",
+    "question_type": "single_select",
+    "attribute": [
+      "performance_score",
+      "expandable_memory",
+      "internal_memory"
+    ],
+    "options": {
+      "1": {
+        "text": "8 GB (Rs. 150)",
+        "next_question": "",
+        "value": ""
+      },
+      "2": {
+        "text": "16 GB (Rs. 300)",
+        "next_question": "",
+        "value": ""
+      },
+      "3": {
+        "text": "32 GB (Rs. 500)",
+        "next_question": "",
+        "value": ""
+      },
+      "4": {
+        "text": "64 GB (Rs. 1200)",
+        "next_question": "",
+        "value": ""
+      },
+      "5": {
+        "text": "128 GB (Rs. 2700)",
+        "next_question": "",
+        "value": ""
+      },
+      "6": {
+        "text": "I wouldn't buy a micro sd card.",
+        "next_question": "",
+        "value": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Active/Sports Wear"
+      },
+      {
+        "key": "2",
+        "value": "Daily Wear"
+      },
+      {
+        "key": "3",
+        "value": "College wear"
+      },
+      {
+        "key": "4",
+        "value": "Lunch/Brunch/Movie"
+      },
+      {
+        "key": "5",
+        "value": "Others"
+      }
+    ]
+  },
+  "2": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "6",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "7",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "8",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "9",
+        "value": "Cool and Relaxing (Blues, Greens, Violets)"
+      },
+      {
+        "key": "10",
+        "value": "Colorful"
+      },
+      {
+        "key": "11",
+        "value": "No Preferences"
+      }
+    ]
+  },
+  "3": {
+    "text": "What type of style you wish to project?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "12",
+        "value": "Bold & Attractive"
+      },
+      {
+        "key": "13",
+        "value": "Conservative & Elegant"
+      },
+      {
+        "key": "14",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Office Wear"
+      },
+      {
+        "key": "2",
+        "value": "Daily Wear Casual"
+      },
+      {
+        "key": "3",
+        "value": "College Wear"
+      },
+      {
+        "key": "4",
+        "value": "Others"
+      },
+      {
+        "key": "5",
+        "value": "Holiday Trips"
+      },
+      {
+        "key": "6",
+        "value": "Special Events"
+      }
+    ]
+  },
+  "2": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "7",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "8",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "9",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "10",
+        "value": "Cool and Relaxing (Blues, Greens, Violets)"
+      },
+      {
+        "key": "11",
+        "value": "Colorful"
+      },
+      {
+        "key": "12",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

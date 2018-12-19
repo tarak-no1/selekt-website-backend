@@ -1,0 +1,6013 @@
+[
+  {
+    "answers": [],
+    "benefits": [],
+    "next": "1",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1"
+    ],
+    "benefits": [
+      "office_wear"
+    ],
+    "next": "2",
+    "reason": "which are work appropriate and can be fashionable with a tad of conservativeness keeping in mind the formal look."
+  },
+  {
+    "answers": [
+      "1",
+      "4"
+    ],
+    "benefits": [
+      "professional_look"
+    ],
+    "next": "7",
+    "reason": "which looks sophisticated and professional, with minimum detailing. Avoid Experimentation"
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5"
+    ],
+    "benefits": [
+      "comfortable_stylish_feel"
+    ],
+    "next": "7",
+    "reason": "which looks work appropriate, classy and experimental"
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2"
+    ],
+    "benefits": [
+      "casual_wear"
+    ],
+    "next": "3",
+    "reason": "with a comfortable feel and also be experimental and stylish"
+  },
+  {
+    "answers": [
+      "2",
+      "6"
+    ],
+    "benefits": [
+      "classy_regular_look"
+    ],
+    "next": "5",
+    "reason": "which looks trendy and chic. Pattern and colors can be experimented."
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "7",
+    "reason": "which will keep you warm and provides maximum coverage to the legs."
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "15",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16"
+    ],
+    "benefits": [],
+    "next": "7",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "16",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "7",
+    "reason": "which are an all season wear. Avoid delicate ones, Surface Ornamentation and fabrics"
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "5",
+    "reason": "which are trendy, with minimum detailing and gives a comfortable feel"
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "7",
+    "reason": "which will keep you warm and provides maximum coverage to the legs."
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "15",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16"
+    ],
+    "benefits": [],
+    "next": "7",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "16",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9"
+    ],
+    "benefits": [
+      "classy_regular_look"
+    ],
+    "next": "5",
+    "reason": "which looks trendy and chic. Pattern and colors can be experimented."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "7",
+    "reason": "which will keep you warm and provides maximum coverage to the legs."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "15",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16"
+    ],
+    "benefits": [],
+    "next": "7",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "16",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "5",
+    "reason": "which are trendy, with minimum detailing and gives a comfortable feel"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "7",
+    "reason": "which will keep you warm and provides maximum coverage to the legs."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "15",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16"
+    ],
+    "benefits": [],
+    "next": "7",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "16",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3"
+    ],
+    "benefits": [
+      "party_wear"
+    ],
+    "next": "4",
+    "reason": "which are blingy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "11"
+    ],
+    "benefits": [
+      "classy_delicate_look"
+    ],
+    "next": "5",
+    "reason": "which are less blingy and has minimal detailing. Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "7",
+    "reason": "which will keep you warm and provides maximum coverage to the legs."
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "15",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16"
+    ],
+    "benefits": [],
+    "next": "7",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11",
+      "16",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12"
+    ],
+    "benefits": [
+      "blingy_look"
+    ],
+    "next": "7",
+    "reason": "which are dressy, blingy, with a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13"
+    ],
+    "benefits": [
+      "classy_delicate_look"
+    ],
+    "next": "5",
+    "reason": "which are less blingy and has minimal detailing. Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "7",
+    "reason": "which will keep you warm and provides maximum coverage to the legs."
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "15",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16"
+    ],
+    "benefits": [],
+    "next": "7",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "16",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14"
+    ],
+    "benefits": [
+      "classy_delicate_look"
+    ],
+    "next": "5",
+    "reason": "which are less blingy and has minimal detailing. Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "7",
+    "reason": "which will keep you warm and provides maximum coverage to the legs."
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "15",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16"
+    ],
+    "benefits": [],
+    "next": "7",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "22"
+    ],
+    "benefits": [
+      "dressy"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "22",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "22",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "22",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "22",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "22",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "23"
+    ],
+    "benefits": [
+      "cute"
+    ],
+    "next": "6",
+    "reason": "that are attractive or pretty especially in a fun, youthful, or delicate way, a little blingy, gives a classy and sophiticated look."
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "23",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "23",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "23",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "23",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "23",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "24"
+    ],
+    "benefits": [
+      "blingy"
+    ],
+    "next": "6",
+    "reason": "that are extravagantly flashy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "24",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "25"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "16",
+      "25",
+      "21"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  }
+]

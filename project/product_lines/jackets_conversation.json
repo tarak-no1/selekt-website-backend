@@ -1,0 +1,6209 @@
+[
+  {
+    "answers": [],
+    "benefits": [],
+    "next": "1",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1"
+    ],
+    "benefits": [
+      "office_wear"
+    ],
+    "next": "2",
+    "reason": "which are work appropriate and can be fashionable with a tad of conservativeness keeping in mind the formal look."
+  },
+  {
+    "answers": [
+      "1",
+      "6"
+    ],
+    "benefits": [
+      "professional_look"
+    ],
+    "next": "8",
+    "reason": "which are formal looking that will make you look both smart and stylish"
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7"
+    ],
+    "benefits": [
+      "comfortable_stylish_feel"
+    ],
+    "next": "8",
+    "reason": "with a comfortable feel, stylish and fashionable look and work appropriate"
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2"
+    ],
+    "benefits": [
+      "casual_wear"
+    ],
+    "next": "3",
+    "reason": "with a comfortable feel and also be experimental and stylish"
+  },
+  {
+    "answers": [
+      "2",
+      "8"
+    ],
+    "benefits": [
+      "dressy_look"
+    ],
+    "next": "5",
+    "reason": "that are casual, with dressy looks and a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "17"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "17",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "17",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "17",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "17",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "17",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "17",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "18"
+    ],
+    "benefits": [
+      "cozy_feel"
+    ],
+    "next": "8",
+    "reason": "which are slightly warm, dressy and provides ease of movement"
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "18",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "18",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "18",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "18",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "18",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "18",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "19"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "8",
+    "reason": "which are warm and cozy,with an element of chicness"
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "19",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "19",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "19",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "19",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "19",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "19",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "20"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "8",
+    "reason": "which are thick and warm and has a functional purpose."
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "20",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "20",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "20",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9"
+    ],
+    "benefits": [
+      "trendy_look"
+    ],
+    "next": "5",
+    "reason": "which has minimum detailing, trendy look and provides ease of movement"
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "6",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "17",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18"
+    ],
+    "benefits": [
+      "cozy_feel"
+    ],
+    "next": "6",
+    "reason": "which are slightly warm, dressy and provides ease of movement"
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "18",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "6",
+    "reason": "which are warm and cozy,with an element of chicness"
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "19",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "6",
+    "reason": "which are thick and warm and has a functional purpose."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "20",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10"
+    ],
+    "benefits": [
+      "trendy_look"
+    ],
+    "next": "5",
+    "reason": "which has minimum detailing, trendy look and provides ease of movement"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "6",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "17",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18"
+    ],
+    "benefits": [
+      "cozy_feel"
+    ],
+    "next": "6",
+    "reason": "which are slightly warm, dressy and provides ease of movement"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "18",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "6",
+    "reason": "which are warm and cozy,with an element of chicness"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "19",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "6",
+    "reason": "which are thick and warm and has a functional purpose."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11"
+    ],
+    "benefits": [
+      "dressy_look"
+    ],
+    "next": "5",
+    "reason": "that are casual, with dressy looks and a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "17"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "17",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "17",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "17",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "17",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "17",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "17",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "18"
+    ],
+    "benefits": [
+      "cozy_feel"
+    ],
+    "next": "8",
+    "reason": "which are slightly warm, dressy and provides ease of movement"
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "18",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "18",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "18",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "18",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "18",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "18",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "19"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "8",
+    "reason": "which are warm and cozy,with an element of chicness"
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "19",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "19",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "19",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "19",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "19",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "19",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "20"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "8",
+    "reason": "which are thick and warm and has a functional purpose."
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "20",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "20",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "20",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3"
+    ],
+    "benefits": [
+      "party_wear"
+    ],
+    "next": "4",
+    "reason": "which are blingy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "12"
+    ],
+    "benefits": [
+      "classy_delicate_look"
+    ],
+    "next": "8",
+    "reason": "which gives a chic look and has delicate detailings and structured silhouettes"
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13"
+    ],
+    "benefits": [
+      "less_blingy_look"
+    ],
+    "next": "8",
+    "reason": "which are less blingy and has minimal detailing. Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14"
+    ],
+    "benefits": [
+      "detailed_look"
+    ],
+    "next": "8",
+    "reason": "which are blingy, bold and with a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15"
+    ],
+    "benefits": [
+      "detailed_look"
+    ],
+    "next": "8",
+    "reason": "which are blingy, bold and with a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16"
+    ],
+    "benefits": [
+      "classy_delicate_look"
+    ],
+    "next": "8",
+    "reason": "which gives a chic look and has delicate detailings and structured silhouettes"
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "4"
+    ],
+    "benefits": [
+      "sporty_look"
+    ],
+    "next": "8",
+    "reason": "which are light weight and thin, to provide ease of movement"
+  },
+  {
+    "answers": [
+      "4",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "4",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "4",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "4",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "4",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "4",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5"
+    ],
+    "benefits": [
+      "holiday_wear"
+    ],
+    "next": "7",
+    "reason": "with any Patterns & Colors. Be experimental"
+  },
+  {
+    "answers": [
+      "5",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "6",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "17",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18"
+    ],
+    "benefits": [
+      "cozy_feel"
+    ],
+    "next": "6",
+    "reason": "which are slightly warm, dressy and provides ease of movement"
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "18",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "6",
+    "reason": "which are warm and cozy,with an element of chicness"
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "19",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "6",
+    "reason": "which are thick and warm and has a functional purpose."
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "24",
+      "20",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25"
+    ],
+    "benefits": [
+      "lightweight_feel"
+    ],
+    "next": "5",
+    "reason": "which are warm,light weight and gives ease of movement"
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "6",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "17",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18"
+    ],
+    "benefits": [
+      "cozy_feel"
+    ],
+    "next": "6",
+    "reason": "which are slightly warm, dressy and provides ease of movement"
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "18",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "6",
+    "reason": "which are warm and cozy,with an element of chicness"
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "19",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "6",
+    "reason": "which are thick and warm and has a functional purpose."
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "21"
+    ],
+    "benefits": [
+      "wind_resistant"
+    ],
+    "next": "8",
+    "reason": "which are wind-resistant and cozy."
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "21",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "21",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "21",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "22"
+    ],
+    "benefits": [
+      "water_resistant"
+    ],
+    "next": "8",
+    "reason": "which are water-resistant."
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "22",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "22",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "22",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "23"
+    ],
+    "benefits": [
+      "all_season_use"
+    ],
+    "next": "8",
+    "reason": "which are thin and light weight and gives a chic look"
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "23",
+      "29"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "23",
+      "30"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "25",
+      "20",
+      "23",
+      "31"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  }
+]

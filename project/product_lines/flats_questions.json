@@ -1,0 +1,160 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Casual"
+      },
+      {
+        "key": "2",
+        "value": "Party"
+      },
+      {
+        "key": "3",
+        "value": "Work"
+      },
+      {
+        "key": "4",
+        "value": "Special Occasion"
+      }
+    ]
+  },
+  "2": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "5",
+        "value": "Lunch/Brunch/Dinner/Movie/Holidays"
+      },
+      {
+        "key": "6",
+        "value": "Daily wear/College"
+      },
+      {
+        "key": "7",
+        "value": "Beach Wear"
+      },
+      {
+        "key": "8",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "9",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "3": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "10",
+        "value": "Cocktail/Office Party"
+      },
+      {
+        "key": "11",
+        "value": "Clubbing/House Party"
+      },
+      {
+        "key": "12",
+        "value": "College Party"
+      },
+      {
+        "key": "13",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "14",
+        "value": "Birthday/Anniversary"
+      },
+      {
+        "key": "15",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "4": {
+    "text": "What's the occasion?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "16",
+        "value": "Date"
+      },
+      {
+        "key": "17",
+        "value": "Festivals/Weddings"
+      },
+      {
+        "key": "18",
+        "value": "Others"
+      }
+    ]
+  },
+  "5": {
+    "text": "What dress code are you looking for?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "19",
+        "value": "Formal"
+      },
+      {
+        "key": "20",
+        "value": "Casual"
+      }
+    ]
+  },
+  "6": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "25",
+        "value": "Colorful and Fun"
+      },
+      {
+        "key": "26",
+        "value": "Bright and Impressive (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "27",
+        "value": "Classic and Elegant (Black, White, Navy Blue etc)"
+      },
+      {
+        "key": "28",
+        "value": "Subtle and Charming (Peach, Coral, Light Blue etc)"
+      },
+      {
+        "key": "29",
+        "value": "No Preferences"
+      }
+    ]
+  },
+  "7": {
+    "text": "How do you want your flats to look?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "21",
+        "value": "Dressy"
+      },
+      {
+        "key": "22",
+        "value": "Cute"
+      },
+      {
+        "key": "23",
+        "value": "Simple but noticeable"
+      },
+      {
+        "key": "24",
+        "value": "No Preference"
+      }
+    ]
+  }
+}

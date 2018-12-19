@@ -1,0 +1,144 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Office Wear"
+      },
+      {
+        "key": "2",
+        "value": "Casual Wear"
+      },
+      {
+        "key": "3",
+        "value": "Party Wear"
+      }
+    ]
+  },
+  "2": {
+    "text": "What is the dress code?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "4",
+        "value": "Semi-Formal"
+      },
+      {
+        "key": "5",
+        "value": "Casual"
+      }
+    ]
+  },
+  "3": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "6",
+        "value": "Lunch/Brunch/Dinner/Movie/Holidays"
+      },
+      {
+        "key": "7",
+        "value": "Beach Wear"
+      },
+      {
+        "key": "8",
+        "value": "Daily wear/College"
+      },
+      {
+        "key": "9",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "10",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "4": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "11",
+        "value": "Birthday/Anniversary/Date"
+      },
+      {
+        "key": "12",
+        "value": "Clubbing/House Party"
+      },
+      {
+        "key": "13",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "14",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "5": {
+    "text": "What kind of shoes do you want ?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "15",
+        "value": "Winter Friendly"
+      },
+      {
+        "key": "16",
+        "value": "All Season Wear"
+      }
+    ]
+  },
+  "6": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "17",
+        "value": "Colorful and Fun"
+      },
+      {
+        "key": "18",
+        "value": "Bright and Impressive (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "19",
+        "value": "Classic and Elegant (Black, White, Navy Blue etc)"
+      },
+      {
+        "key": "20",
+        "value": "Subtle and Charming (Peach, Coral, Light Blue etc)"
+      },
+      {
+        "key": "21",
+        "value": "No Preferences"
+      }
+    ]
+  },
+  "7": {
+    "text": "How do you want your shoes to look?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "22",
+        "value": "Dressy"
+      },
+      {
+        "key": "23",
+        "value": "Cute"
+      },
+      {
+        "key": "24",
+        "value": "Blingy"
+      },
+      {
+        "key": "25",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

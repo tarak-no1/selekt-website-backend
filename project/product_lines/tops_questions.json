@@ -1,0 +1,282 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Special Occasion Wear"
+      },
+      {
+        "key": "2",
+        "value": "Office Wear"
+      },
+      {
+        "key": "3",
+        "value": "Casual Wear"
+      },
+      {
+        "key": "4",
+        "value": "Party Wear"
+      }
+    ]
+  },
+  "2": {
+    "text": "What's the occasion?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "5",
+        "value": "Date"
+      },
+      {
+        "key": "6",
+        "value": "Birthday/Anniversary"
+      },
+      {
+        "key": "7",
+        "value": "Festival"
+      },
+      {
+        "key": "8",
+        "value": "Others"
+      }
+    ]
+  },
+  "3": {
+    "text": "What dress code are you looking for?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "9",
+        "value": "Formal"
+      },
+      {
+        "key": "10",
+        "value": "Semi-Formal"
+      },
+      {
+        "key": "11",
+        "value": "Casual"
+      }
+    ]
+  },
+  "4": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "12",
+        "value": "Lunch/Brunch/Dinner/Movie"
+      },
+      {
+        "key": "13",
+        "value": "Daily wear/College"
+      },
+      {
+        "key": "14",
+        "value": "Beach/Pool Party"
+      },
+      {
+        "key": "15",
+        "value": "Holidays"
+      },
+      {
+        "key": "16",
+        "value": "Other Events"
+      },
+      {
+        "key": "17",
+        "value": "Not for any specific event"
+      }
+    ]
+  },
+  "5": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "18",
+        "value": "College Party"
+      },
+      {
+        "key": "19",
+        "value": "Cocktail/Office Party"
+      },
+      {
+        "key": "20",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "21",
+        "value": "Clubbing"
+      },
+      {
+        "key": "22",
+        "value": "House Party"
+      },
+      {
+        "key": "23",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "6": {
+    "text": "Is the event happening indoor or outdoor?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "24",
+        "value": "Indoor"
+      },
+      {
+        "key": "25",
+        "value": "Outdoor"
+      }
+    ]
+  },
+  "7": {
+    "text": "Do you plan on going out?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "26",
+        "value": "Yes"
+      },
+      {
+        "key": "27",
+        "value": "No"
+      }
+    ]
+  },
+  "8": {
+    "text": "How would you like your top to be?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "28",
+        "value": "Simple"
+      },
+      {
+        "key": "29",
+        "value": "Heavy"
+      }
+    ]
+  },
+  "9": {
+    "text": "How is the Weather like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "30",
+        "value": "Hot"
+      },
+      {
+        "key": "31",
+        "value": "Cold"
+      }
+    ]
+  },
+  "10": {
+    "text": "Is it during day or night?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "32",
+        "value": "Day"
+      },
+      {
+        "key": "33",
+        "value": "Night"
+      }
+    ]
+  },
+  "11": {
+    "text": "Are you spending time with Friends or Family?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "34",
+        "value": "Family"
+      },
+      {
+        "key": "35",
+        "value": "Friends"
+      }
+    ]
+  },
+  "12": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "36",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "37",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "38",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "39",
+        "value": "No Preferences"
+      }
+    ]
+  },
+  "13": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "40",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "41",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "42",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "43",
+        "value": "Cool and Relaxing (Blues, Greens, Violets)"
+      },
+      {
+        "key": "44",
+        "value": "Colorful"
+      },
+      {
+        "key": "45",
+        "value": "No Preferences"
+      }
+    ]
+  },
+  "14": {
+    "text": "What type of style you wish to project?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "46",
+        "value": "Bold & Attractive"
+      },
+      {
+        "key": "47",
+        "value": "Conseravtive & Elegant"
+      },
+      {
+        "key": "48",
+        "value": "Neither Bold nor Conservative"
+      },
+      {
+        "key": "49",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

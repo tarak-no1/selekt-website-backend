@@ -1,0 +1,2475 @@
+[
+  {
+    "answers": [],
+    "benefits": [],
+    "next": "1",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1"
+    ],
+    "benefits": [
+      "office_wear"
+    ],
+    "next": "2",
+    "reason": "which are work appropriate and can be fashionable with a tad of conservativeness keeping in mind the formal look."
+  },
+  {
+    "answers": [
+      "1",
+      "4"
+    ],
+    "benefits": [
+      "professional_look"
+    ],
+    "next": "5",
+    "reason": "which looks sophisticated and modest, with proper fitting"
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "16"
+    ],
+    "benefits": [
+      "daring_look"
+    ],
+    "next": "4",
+    "reason": "that are daring, experimental and appealing to look at"
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "16",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "16",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "16",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "16",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "16",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "17"
+    ],
+    "benefits": [
+      "conservative_look"
+    ],
+    "next": "4",
+    "reason": "which are simple ,basic and traditional yet stylish and graceful in appearance."
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "17",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "17",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "17",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "17",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "17",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "18"
+    ],
+    "benefits": [
+      "intermediate_look"
+    ],
+    "next": "4",
+    "reason": "which are between two extremes not too basic and not too daring"
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "18",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "18",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "18",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "18",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "18",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "19"
+    ],
+    "benefits": [],
+    "next": "4",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "19",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "19",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "19",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "19",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "19",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5"
+    ],
+    "benefits": [
+      "comfortable_stylish_feel"
+    ],
+    "next": "5",
+    "reason": "which feel comfortable, has minimum detailing, trendy look and moderate boldness"
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "16"
+    ],
+    "benefits": [
+      "daring_look"
+    ],
+    "next": "4",
+    "reason": "that are daring, experimental and appealing to look at"
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "16",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "16",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "16",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "16",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "16",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "17"
+    ],
+    "benefits": [
+      "conservative_look"
+    ],
+    "next": "4",
+    "reason": "which are simple ,basic and traditional yet stylish and graceful in appearance."
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "17",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "17",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "17",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "17",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "17",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "18"
+    ],
+    "benefits": [
+      "intermediate_look"
+    ],
+    "next": "4",
+    "reason": "which are between two extremes not too basic and not too daring"
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "18",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "18",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "18",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "18",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "18",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "19"
+    ],
+    "benefits": [],
+    "next": "4",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "19",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "19",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "19",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "19",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "19",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2"
+    ],
+    "benefits": [
+      "comfortable_look"
+    ],
+    "next": "5",
+    "reason": "with a comfortable feel and also be experimental and stylish"
+  },
+  {
+    "answers": [
+      "2",
+      "16"
+    ],
+    "benefits": [
+      "daring_look"
+    ],
+    "next": "4",
+    "reason": "that are daring, experimental and appealing to look at"
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17"
+    ],
+    "benefits": [
+      "conservative_look"
+    ],
+    "next": "4",
+    "reason": "which are simple ,basic and traditional yet stylish and graceful in appearance."
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "18"
+    ],
+    "benefits": [
+      "intermediate_look"
+    ],
+    "next": "4",
+    "reason": "which are between two extremes not too basic and not too daring"
+  },
+  {
+    "answers": [
+      "2",
+      "18",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "18",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "18",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "18",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "18",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "19"
+    ],
+    "benefits": [],
+    "next": "4",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "19",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "19",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "19",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "19",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "19",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3"
+    ],
+    "benefits": [
+      "party_wear"
+    ],
+    "next": "3",
+    "reason": "which are blingy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "6"
+    ],
+    "benefits": [
+      "dressy_look"
+    ],
+    "next": "5",
+    "reason": "which are less blingy and has minimal detailing. Features & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "16"
+    ],
+    "benefits": [
+      "daring_look"
+    ],
+    "next": "4",
+    "reason": "that are daring, experimental and appealing to look at"
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "16",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "16",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "16",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "16",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "16",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "17"
+    ],
+    "benefits": [
+      "conservative_look"
+    ],
+    "next": "4",
+    "reason": "which are simple ,basic and traditional yet stylish and graceful in appearance."
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "17",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "17",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "17",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "17",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "17",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "18"
+    ],
+    "benefits": [
+      "intermediate_look"
+    ],
+    "next": "4",
+    "reason": "which are between two extremes not too basic and not too daring"
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "18",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "18",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "18",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "18",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "18",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "19"
+    ],
+    "benefits": [],
+    "next": "4",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "19",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "19",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "19",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "19",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "19",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7"
+    ],
+    "benefits": [
+      "chic_look"
+    ],
+    "next": "5",
+    "reason": "with a chic look, classic styles and also appears sophisticated and elegant"
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "16"
+    ],
+    "benefits": [
+      "daring_look"
+    ],
+    "next": "4",
+    "reason": "that are daring, experimental and appealing to look at"
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "16",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "16",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "16",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "16",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "16",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "17"
+    ],
+    "benefits": [
+      "conservative_look"
+    ],
+    "next": "4",
+    "reason": "which are simple ,basic and traditional yet stylish and graceful in appearance."
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "17",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "17",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "17",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "17",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "17",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "18"
+    ],
+    "benefits": [
+      "intermediate_look"
+    ],
+    "next": "4",
+    "reason": "which are between two extremes not too basic and not too daring"
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "18",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "18",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "18",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "18",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "18",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "19"
+    ],
+    "benefits": [],
+    "next": "4",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "19",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "19",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "19",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "19",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "19",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8"
+    ],
+    "benefits": [
+      "detailed_look"
+    ],
+    "next": "5",
+    "reason": "which are blingy, bold and with a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "16"
+    ],
+    "benefits": [
+      "daring_look"
+    ],
+    "next": "4",
+    "reason": "that are daring, experimental and appealing to look at"
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "16",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "16",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "16",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "16",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "16",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "17"
+    ],
+    "benefits": [
+      "conservative_look"
+    ],
+    "next": "4",
+    "reason": "which are simple ,basic and traditional yet stylish and graceful in appearance."
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "17",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "17",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "17",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "17",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "17",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "18"
+    ],
+    "benefits": [
+      "intermediate_look"
+    ],
+    "next": "4",
+    "reason": "which are between two extremes not too basic and not too daring"
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "18",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "18",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "18",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "18",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "18",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "19"
+    ],
+    "benefits": [],
+    "next": "4",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "19",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "19",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "19",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "19",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "19",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9"
+    ],
+    "benefits": [
+      "detailed_look"
+    ],
+    "next": "5",
+    "reason": "which are blingy, bold and with a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "16"
+    ],
+    "benefits": [
+      "daring_look"
+    ],
+    "next": "4",
+    "reason": "that are daring, experimental and appealing to look at"
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "16",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "16",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "16",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "16",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "16",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "17"
+    ],
+    "benefits": [
+      "conservative_look"
+    ],
+    "next": "4",
+    "reason": "which are simple ,basic and traditional yet stylish and graceful in appearance."
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "17",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "17",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "17",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "17",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "17",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "18"
+    ],
+    "benefits": [
+      "intermediate_look"
+    ],
+    "next": "4",
+    "reason": "which are between two extremes not too basic and not too daring"
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "18",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "18",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "18",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "18",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "18",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "19"
+    ],
+    "benefits": [],
+    "next": "4",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "19",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "19",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "19",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "19",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "19",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10"
+    ],
+    "benefits": [
+      "chic_look"
+    ],
+    "next": "5",
+    "reason": "with a chic look, classic styles and also appears sophisticated and elegant"
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "16"
+    ],
+    "benefits": [
+      "daring_look"
+    ],
+    "next": "4",
+    "reason": "that are daring, experimental and appealing to look at"
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "16",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "16",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "16",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "16",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "16",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "17"
+    ],
+    "benefits": [
+      "conservative_look"
+    ],
+    "next": "4",
+    "reason": "which are simple ,basic and traditional yet stylish and graceful in appearance."
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "17",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "17",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "17",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "17",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "17",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "18"
+    ],
+    "benefits": [
+      "intermediate_look"
+    ],
+    "next": "4",
+    "reason": "which are between two extremes not too basic and not too daring"
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "18",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "18",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "18",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "18",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "18",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "19"
+    ],
+    "benefits": [],
+    "next": "4",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "19",
+      "11"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "19",
+      "12"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "19",
+      "13"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "19",
+      "14"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "19",
+      "15"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  }
+]

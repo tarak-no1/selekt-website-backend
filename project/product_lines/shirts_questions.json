@@ -1,0 +1,152 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Office Wear"
+      },
+      {
+        "key": "2",
+        "value": "Casual Wear"
+      }
+    ]
+  },
+  "2": {
+    "text": "What dress code are you looking for?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "3",
+        "value": "Formal"
+      },
+      {
+        "key": "4",
+        "value": "Semi-Formal"
+      },
+      {
+        "key": "5",
+        "value": "Casual"
+      }
+    ]
+  },
+  "3": {
+    "text": "Are you shopping for any important meeting or presentation?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "6",
+        "value": "Yes"
+      },
+      {
+        "key": "7",
+        "value": "No"
+      }
+    ]
+  },
+  "4": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "8",
+        "value": "Lunch/Brunch/Dinner/Movie"
+      },
+      {
+        "key": "9",
+        "value": "Daily wear/College"
+      },
+      {
+        "key": "10",
+        "value": "Holiday Trips"
+      },
+      {
+        "key": "11",
+        "value": "Beach"
+      },
+      {
+        "key": "12",
+        "value": "Other Events"
+      },
+      {
+        "key": "13",
+        "value": "Not for any specific event"
+      }
+    ]
+  },
+  "5": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "14",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "15",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "16",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "17",
+        "value": "No Preferences"
+      }
+    ]
+  },
+  "6": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "18",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "19",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "20",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "21",
+        "value": "Cool and Relaxing (Blues, Greens, Violets)"
+      },
+      {
+        "key": "22",
+        "value": "Colorful"
+      },
+      {
+        "key": "23",
+        "value": "No Preferences"
+      }
+    ]
+  },
+  "7": {
+    "text": "What type of style you wish to project?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "24",
+        "value": "Bold & Attractive"
+      },
+      {
+        "key": "25",
+        "value": "Conservative & Elegant"
+      },
+      {
+        "key": "26",
+        "value": "Neither Bold nor Conservative"
+      },
+      {
+        "key": "27",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

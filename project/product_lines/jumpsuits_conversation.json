@@ -1,0 +1,2268 @@
+[
+  {
+    "answers": [],
+    "benefits": [],
+    "next": "1",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1"
+    ],
+    "benefits": [
+      "comfortable_stylish_feel"
+    ],
+    "next": "7",
+    "reason": "which are work appropriate and can be fashionable with a tad of conservativeness keeping in mind the formal look."
+  },
+  {
+    "answers": [
+      "1",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2"
+    ],
+    "benefits": [
+      "casual_wear"
+    ],
+    "next": "2",
+    "reason": "with a comfortable feel and also be experimental and stylish"
+  },
+  {
+    "answers": [
+      "2",
+      "4"
+    ],
+    "benefits": [
+      "elegant_look"
+    ],
+    "next": "7",
+    "reason": "that are casual, with dressy looks and a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "2",
+      "4",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "5"
+    ],
+    "benefits": [
+      "beach_look"
+    ],
+    "next": "7",
+    "reason": "with comfortable fabrics which will give you a fresh and relaxed look"
+  },
+  {
+    "answers": [
+      "2",
+      "5",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6"
+    ],
+    "benefits": [
+      "trendy_look"
+    ],
+    "next": "7",
+    "reason": "that are casual with trendy looks, minimum detailing and moderate boldness"
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7"
+    ],
+    "benefits": [
+      "alluring_look"
+    ],
+    "next": "3",
+    "reason": "with any Patterns & Colors. Be experimental"
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "11"
+    ],
+    "benefits": [
+      "allseason_yes"
+    ],
+    "next": "7",
+    "reason": "with natural basic fabrics"
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "11",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "12"
+    ],
+    "benefits": [],
+    "next": "7",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "12",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8"
+    ],
+    "benefits": [
+      "date_look"
+    ],
+    "next": "7",
+    "reason": "which look elegant and gives you a bold & beautiful appearance"
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9"
+    ],
+    "benefits": [
+      "voguish_look"
+    ],
+    "next": "7",
+    "reason": "that are casual and also looks stylish"
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10"
+    ],
+    "benefits": [
+      "voguish_look"
+    ],
+    "next": "7",
+    "reason": "that are casual and also looks stylish"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3"
+    ],
+    "benefits": [
+      "party_wear"
+    ],
+    "next": "4",
+    "reason": "which are blingy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "13"
+    ],
+    "benefits": [
+      "clubbing_look"
+    ],
+    "next": "5",
+    "reason": "which are blingy, bold and with a fair amount of experimentation"
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "18"
+    ],
+    "benefits": [
+      "sophisticated_look"
+    ],
+    "next": "7",
+    "reason": "which are blingy and avoid bright and radiant patterns"
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "18",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "20"
+    ],
+    "benefits": [
+      "day_look"
+    ],
+    "next": "7",
+    "reason": "which are less blingy and with bright and colorful patterns to give a radiant look"
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "20",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "21"
+    ],
+    "benefits": [
+      "sophisticated_look"
+    ],
+    "next": "7",
+    "reason": "which are blingy and avoid bright and radiant patterns"
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "21",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14"
+    ],
+    "benefits": [
+      "stylish_look"
+    ],
+    "next": "5",
+    "reason": "which are less blingy, stylish and has minimal detailing."
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "18"
+    ],
+    "benefits": [
+      "sophisticated_look"
+    ],
+    "next": "7",
+    "reason": "which are blingy and avoid bright and radiant patterns"
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "18",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "20"
+    ],
+    "benefits": [
+      "day_look"
+    ],
+    "next": "7",
+    "reason": "which are less blingy and with bright and colorful patterns to give a radiant look"
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "20",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "21"
+    ],
+    "benefits": [
+      "sophisticated_look"
+    ],
+    "next": "7",
+    "reason": "which are blingy and avoid bright and radiant patterns"
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "21",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15"
+    ],
+    "benefits": [
+      "stylish_look"
+    ],
+    "next": "5",
+    "reason": "which are less blingy, stylish and has minimal detailing."
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "18"
+    ],
+    "benefits": [
+      "sophisticated_look"
+    ],
+    "next": "7",
+    "reason": "which are blingy and avoid bright and radiant patterns"
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "18",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "20"
+    ],
+    "benefits": [
+      "day_look"
+    ],
+    "next": "7",
+    "reason": "which are less blingy and with bright and colorful patterns to give a radiant look"
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "20",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "21"
+    ],
+    "benefits": [
+      "sophisticated_look"
+    ],
+    "next": "7",
+    "reason": "which are blingy and avoid bright and radiant patterns"
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "21",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16"
+    ],
+    "benefits": [
+      "party_look"
+    ],
+    "next": "5",
+    "reason": "which are less blingy and has minimal detailing. silhouette and Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "18"
+    ],
+    "benefits": [
+      "sophisticated_look"
+    ],
+    "next": "7",
+    "reason": "which are blingy and avoid bright and radiant patterns"
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "18",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "20"
+    ],
+    "benefits": [
+      "day_look"
+    ],
+    "next": "7",
+    "reason": "which are less blingy and with bright and colorful patterns to give a radiant look"
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "20",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "21"
+    ],
+    "benefits": [
+      "sophisticated_look"
+    ],
+    "next": "7",
+    "reason": "which are blingy and avoid bright and radiant patterns"
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "21",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17"
+    ],
+    "benefits": [
+      "party_look"
+    ],
+    "next": "5",
+    "reason": "which are less blingy and has minimal detailing. silhouette and Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "18"
+    ],
+    "benefits": [
+      "sophisticated_look"
+    ],
+    "next": "7",
+    "reason": "which are blingy and avoid bright and radiant patterns"
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "18",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19"
+    ],
+    "benefits": [],
+    "next": "6",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "20"
+    ],
+    "benefits": [
+      "day_look"
+    ],
+    "next": "7",
+    "reason": "which are less blingy and with bright and colorful patterns to give a radiant look"
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "20",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "21"
+    ],
+    "benefits": [
+      "sophisticated_look"
+    ],
+    "next": "7",
+    "reason": "which are blingy and avoid bright and radiant patterns"
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "21",
+      "22"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "4",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "5",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "11",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "12",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "18",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "20",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "21",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "18",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "20",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "21",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "18",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "20",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "21",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "18",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "20",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "21",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "18",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "20",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "21",
+      "23"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "4",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "5",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "11",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "12",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "18",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "20",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "21",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "18",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "20",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "21",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "18",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "20",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "21",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "18",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "20",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "21",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "18",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "20",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "21",
+      "24"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "4",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "5",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "11",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "12",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "18",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "20",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "21",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "18",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "20",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "21",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "18",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "20",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "21",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "18",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "20",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "21",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "18",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "20",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "21",
+      "25"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "4",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "5",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "11",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "12",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "18",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "18",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "18",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "18",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "18",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "4",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "5",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "6",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "11",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7",
+      "12",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "18",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "20",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "13",
+      "19",
+      "21",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "18",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "20",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "14",
+      "19",
+      "21",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "18",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "20",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "15",
+      "19",
+      "21",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "18",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "20",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "16",
+      "19",
+      "21",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "18",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "20",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "17",
+      "19",
+      "21",
+      "27"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  }
+]

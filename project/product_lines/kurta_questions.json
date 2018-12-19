@@ -1,0 +1,224 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Special Occasion Wear"
+      },
+      {
+        "key": "2",
+        "value": "Office Wear"
+      },
+      {
+        "key": "3",
+        "value": "Casual Wear"
+      }
+    ]
+  },
+  "2": {
+    "text": "What's the occasion?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "4",
+        "value": "Date"
+      },
+      {
+        "key": "5",
+        "value": "Birthday/Anniversary"
+      },
+      {
+        "key": "6",
+        "value": "Festival"
+      },
+      {
+        "key": "7",
+        "value": "Cocktail/Office Party"
+      },
+      {
+        "key": "8",
+        "value": "Wedding"
+      },
+      {
+        "key": "9",
+        "value": "Others"
+      }
+    ]
+  },
+  "3": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "10",
+        "value": "Lunch/Brunch/Dinner/Movie"
+      },
+      {
+        "key": "11",
+        "value": "Daily wear/College"
+      },
+      {
+        "key": "12",
+        "value": "Holidays"
+      },
+      {
+        "key": "13",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "14",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "4": {
+    "text": "What dress code are you looking for?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "15",
+        "value": "Formal"
+      },
+      {
+        "key": "16",
+        "value": "Semi-Formal"
+      },
+      {
+        "key": "17",
+        "value": "Casual"
+      }
+    ]
+  },
+  "5": {
+    "text": "Is the event happening indoor or outdoor?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "18",
+        "value": "Indoor"
+      },
+      {
+        "key": "19",
+        "value": "Outdoor"
+      }
+    ]
+  },
+  "6": {
+    "text": "How would you like your kurta to be?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "20",
+        "value": "Simple"
+      },
+      {
+        "key": "21",
+        "value": "Heavy"
+      }
+    ]
+  },
+  "7": {
+    "text": "How is the Weather like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "22",
+        "value": "Hot"
+      },
+      {
+        "key": "23",
+        "value": "Cold"
+      }
+    ]
+  },
+  "8": {
+    "text": "Is it during day or night?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "24",
+        "value": "Day"
+      },
+      {
+        "key": "25",
+        "value": "Night"
+      }
+    ]
+  },
+  "9": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "26",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "27",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "28",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "29",
+        "value": "No Preferences"
+      }
+    ]
+  },
+  "10": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "30",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "31",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "32",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "33",
+        "value": "Cool and Relaxing (Blues, Greens, Violets)"
+      },
+      {
+        "key": "34",
+        "value": "Colorful"
+      },
+      {
+        "key": "35",
+        "value": "No Preferences"
+      }
+    ]
+  },
+  "11": {
+    "text": "What type of style you wish to project?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "36",
+        "value": "Bold & Attractive"
+      },
+      {
+        "key": "37",
+        "value": "Conseravtive & Elegant"
+      },
+      {
+        "key": "38",
+        "value": "Neither Bold nor Conservative"
+      },
+      {
+        "key": "39",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

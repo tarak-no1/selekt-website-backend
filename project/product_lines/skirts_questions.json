@@ -1,0 +1,236 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Office Wear"
+      },
+      {
+        "key": "2",
+        "value": "Casual Wear"
+      },
+      {
+        "key": "3",
+        "value": "Party Wear"
+      }
+    ]
+  },
+  "2": {
+    "text": "What dress code are you looking for?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "4",
+        "value": "Formal"
+      },
+      {
+        "key": "5",
+        "value": "Semi-Formal"
+      },
+      {
+        "key": "6",
+        "value": "Casual"
+      }
+    ]
+  },
+  "3": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "7",
+        "value": "Lunch/Brunch/Dinner/Movie"
+      },
+      {
+        "key": "8",
+        "value": "Daily wear/College"
+      },
+      {
+        "key": "9",
+        "value": "Beach"
+      },
+      {
+        "key": "10",
+        "value": "Holiday Trips"
+      },
+      {
+        "key": "11",
+        "value": "Date"
+      },
+      {
+        "key": "12",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "13",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "4": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "14",
+        "value": "Cocktail/Office Party"
+      },
+      {
+        "key": "15",
+        "value": "Clubbing/House Party"
+      },
+      {
+        "key": "16",
+        "value": "College Party"
+      },
+      {
+        "key": "17",
+        "value": "Birthday/Anniversary"
+      },
+      {
+        "key": "18",
+        "value": "Pool Party"
+      },
+      {
+        "key": "19",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "20",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "5": {
+    "text": "Are you going with Friends or Family?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "21",
+        "value": "Family"
+      },
+      {
+        "key": "22",
+        "value": "Friends"
+      }
+    ]
+  },
+  "6": {
+    "text": "Is the event happening indoor or outdoor?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "23",
+        "value": "Indoor"
+      },
+      {
+        "key": "24",
+        "value": "Outdoor"
+      }
+    ]
+  },
+  "7": {
+    "text": "Is it during day or night?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "25",
+        "value": "Day"
+      },
+      {
+        "key": "26",
+        "value": "Night"
+      }
+    ]
+  },
+  "8": {
+    "text": "How is the Weather like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "27",
+        "value": "Hot"
+      },
+      {
+        "key": "28",
+        "value": "Cold"
+      }
+    ]
+  },
+  "9": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "29",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "30",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "31",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "32",
+        "value": "No Preferences"
+      }
+    ]
+  },
+  "10": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "33",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "34",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "35",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "36",
+        "value": "Cool and Relaxing (Blues, Greens, Violets)"
+      },
+      {
+        "key": "37",
+        "value": "Colorful"
+      },
+      {
+        "key": "38",
+        "value": "No Preferences"
+      }
+    ]
+  },
+  "11": {
+    "text": "What type of style you wish to project?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "39",
+        "value": "Bold & Attractive"
+      },
+      {
+        "key": "40",
+        "value": "Conservative & Elegant"
+      },
+      {
+        "key": "41",
+        "value": "Neither Bold nor Conservative"
+      },
+      {
+        "key": "42",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

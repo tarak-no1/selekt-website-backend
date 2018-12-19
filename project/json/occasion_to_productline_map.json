@@ -1,0 +1,1721 @@
+{
+  "for holiday trips": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "skirts",
+      "sweaters"
+    ]
+  },
+  "concert": {
+    "type": "occasions",
+    "synonyms": [
+      "concert",
+      "concerts"
+    ],
+    "values": [
+      "skirts",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "sweaters",
+      "jeans"
+    ]
+  },
+  "pool party": {
+    "type": "occasions",
+    "synonyms": [
+      "pool party",
+      "beach party"
+    ],
+    "values": [
+      "skirts",
+      "casual shoes",
+      "flats",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "shirts"
+    ]
+  },
+  "date night": {
+    "type": "occasions",
+    "synonyms": [
+      "date night",
+      "date",
+      "blind date"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "kurtas",
+      "jeans"
+    ]
+  },
+  "delicate and feminine ": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "skirts",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "jeggings",
+      "sweaters"
+    ]
+  },
+  "college": {
+    "type": "occasions",
+    "synonyms": [
+      "college",
+      "college wear"
+    ],
+    "values": [
+      "skirts",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "capris",
+      "shirts",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "for elegant festival ": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "skirts"
+    ]
+  },
+  "site seeing/picnic": {
+    "type": "occasions",
+    "synonyms": [
+      "site seeing/picnic",
+      "picnic",
+      "site seeing"
+    ],
+    "values": [
+      "skirts",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "capris",
+      "shirts",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "family dinner": {
+    "type": "occasions",
+    "synonyms": [
+      "family dinner",
+      "dinner with family"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "capris",
+      "kurtas",
+      "jeans"
+    ]
+  },
+  "colorful": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "skirts",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "jeggings",
+      "capris",
+      "sweaters",
+      "trousers",
+      "shirts",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "simple wedding look": {
+    "type": "occasions",
+    "synonyms": [
+      "simple wedding look"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "trousers",
+      "shirts"
+    ]
+  },
+  "birthday party": {
+    "type": "occasions",
+    "synonyms": [
+      "birthday party"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "anniversary": {
+    "type": "occasions",
+    "synonyms": [
+      "anniversary"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "dinner with partner/friends": {
+    "type": "occasions",
+    "synonyms": [
+      "dinner with partner/friends",
+      "dinner with friends",
+      "friends dinner",
+      "dinner with partner",
+      "dinner"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "capris",
+      "kurtas",
+      "jeans"
+    ]
+  },
+  "clubbing": {
+    "type": "occasions",
+    "synonyms": [
+      "clubbing",
+      "clubs",
+      "night club",
+      "night clubs"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "sweaters",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "semi formal office wear": {
+    "type": "occasions",
+    "synonyms": [
+      "semi formal office wear",
+      "semi formal office",
+      "semi formal",
+      "semi-formal",
+      "semi formals",
+      "semi formal work wear"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "shirts",
+      "kurtas",
+      "jeans"
+    ]
+  },
+  "for elegant wedding": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "skirts",
+      "shirts"
+    ]
+  },
+  "formal office wear": {
+    "type": "occasions",
+    "synonyms": [
+      "formal office wear",
+      "formal office",
+      "formal wear",
+      "formals",
+      "formal work wear",
+      "formal"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "jumpsuits",
+      "tops",
+      "shirts",
+      "kurtas"
+    ]
+  },
+  "beach": {
+    "type": "occasions",
+    "synonyms": [
+      "beach",
+      "beaches",
+      "goa"
+    ],
+    "values": [
+      "skirts",
+      "casual shoes",
+      "handbags",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "tops",
+      "trousers",
+      "shirts"
+    ]
+  },
+  "long flight/airport": {
+    "type": "occasions",
+    "synonyms": [
+      "long flight/airport look",
+      "long filght",
+      "airport",
+      "airport look",
+      "long flight/airport"
+    ],
+    "values": [
+      "skirts",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "dresses",
+      "shorts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "capris",
+      "shirts",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "for salsa": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "skirts",
+      "trousers"
+    ]
+  },
+  "for dance": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "skirts",
+      "trousers"
+    ]
+  },
+  "daily wear": {
+    "type": "occasions",
+    "synonyms": [
+      "daily wear",
+      "home wear",
+      "wear at home",
+      "everyday wear",
+      "normal wear",
+      "dailywear",
+      "hostel wear"
+    ],
+    "values": [
+      "skirts",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "capris",
+      "shirts",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "hill station": {
+    "type": "occasions",
+    "synonyms": [
+      "hill station",
+      "hill stations"
+    ],
+    "values": [
+      "skirts",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "sweaters",
+      "shirts",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "office party": {
+    "type": "occasions",
+    "synonyms": [
+      "office party",
+      "business party"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "trousers",
+      "kurtas",
+      "jeans"
+    ]
+  },
+  "birthday": {
+    "type": "occasions",
+    "synonyms": [
+      "birthday"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "bright and stimulating ": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "skirts",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "jeggings",
+      "sweaters",
+      "shirts"
+    ]
+  },
+  "road journey": {
+    "type": "occasions",
+    "synonyms": [
+      "road journey",
+      "road trip",
+      "by road",
+      "road travel"
+    ],
+    "values": [
+      "skirts",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "capris",
+      "shirts",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "lunch/brunch/movie": {
+    "type": "occasions",
+    "synonyms": [
+      "lunch/brunch/movie",
+      "lunch",
+      "brunch",
+      "movie"
+    ],
+    "values": [
+      "skirts",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "capris",
+      "shirts",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "college party": {
+    "type": "occasions",
+    "synonyms": [
+      "college party"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "trousers",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "dignified and powerful ": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "skirts",
+      "sweatshirts",
+      "jumpsuits",
+      "sweaters",
+      "shirts"
+    ]
+  },
+  "cool and relaxing ": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "skirts",
+      "shorts",
+      "sweatshirts",
+      "jeggings",
+      "sweaters",
+      "kurtas"
+    ]
+  },
+  "casual office wear": {
+    "type": "occasions",
+    "synonyms": [
+      "casual office wear",
+      "casual office",
+      "casual work wear",
+      "casual work"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "trousers",
+      "shirts",
+      "kurtas",
+      "jeans"
+    ]
+  },
+  "family ceremony look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "skirts",
+      "tshirts"
+    ]
+  },
+  "dinner party/evening party": {
+    "type": "occasions",
+    "synonyms": [
+      "dinner party/evening party",
+      "dinner party",
+      "evening party",
+      "evening"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "kurtas",
+      "jeans"
+    ]
+  },
+  "cocktail party": {
+    "type": "occasions",
+    "synonyms": [
+      "cocktail party",
+      "cocktail"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "kurtas",
+      "jeans"
+    ]
+  },
+  "simple festival look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "skirts",
+      "trousers",
+      "shirts"
+    ]
+  },
+  "special occasion": {
+    "type": "broad_occasions",
+    "synonyms": [
+      "special occasion",
+      "different occasions",
+      "personal occasions",
+      "personal occasion",
+      "different occasion",
+      "other occasion"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "capris",
+      "sweaters",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "party wear": {
+    "type": "broad_occasions",
+    "synonyms": [
+      "party wear",
+      "party"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "sweaters",
+      "trousers",
+      "shirts",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "vacation": {
+    "type": "broad_occasions",
+    "synonyms": [
+      "vacation",
+      "holiday",
+      "vacations",
+      "holidays"
+    ],
+    "values": [
+      "skirts",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "capris",
+      "sweaters",
+      "shirts",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "office": {
+    "type": "broad_occasions",
+    "synonyms": [
+      "office",
+      "work",
+      "office wear",
+      "officewear",
+      "work wear",
+      "workwear"
+    ],
+    "values": [
+      "skirts",
+      "blazers",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "sweatshirts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "shirts",
+      "kurtas",
+      "jeans"
+    ]
+  },
+  "casual wear": {
+    "type": "broad_occasions",
+    "synonyms": [
+      "casual wear",
+      "casual",
+      "casuals"
+    ],
+    "values": [
+      "skirts",
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "shorts",
+      "jumpsuits",
+      "tops",
+      "jeggings",
+      "capris",
+      "trousers",
+      "shirts",
+      "kurtas",
+      "tshirts",
+      "jeans"
+    ]
+  },
+  "bright and stimulating": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "blazers",
+      "dresses",
+      "capris",
+      "kurtas"
+    ]
+  },
+  "dignified and powerful": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "blazers",
+      "dresses",
+      "shorts",
+      "capris",
+      "kurtas"
+    ]
+  },
+  "wedding": {
+    "type": "broad_occasions",
+    "synonyms": [
+      "wedding",
+      "weddings"
+    ],
+    "values": [
+      "blazers",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "tops",
+      "sweaters",
+      "kurtas"
+    ]
+  },
+  "bright and impressive": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "casual shoes",
+      "handbags",
+      "flats",
+      "heels"
+    ]
+  },
+  "classic and elegant": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "casual shoes",
+      "handbags",
+      "flats",
+      "heels"
+    ]
+  },
+  "other dance classes": {
+    "type": "occasions",
+    "synonyms": [
+      "other dance classes",
+      "other dances",
+      "other dance"
+    ],
+    "values": [
+      "casual shoes",
+      "jackets",
+      "dresses",
+      "shorts",
+      "capris",
+      "tshirts"
+    ]
+  },
+  "family ceremony": {
+    "type": "occasions",
+    "synonyms": [
+      "family ceremony",
+      "ceremony"
+    ],
+    "values": [
+      "casual shoes",
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "tops",
+      "jeggings",
+      "kurtas",
+      "jeans"
+    ]
+  },
+  "colorful and fun": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "casual shoes",
+      "flats",
+      "heels"
+    ]
+  },
+  "salsa classes": {
+    "type": "occasions",
+    "synonyms": [
+      "salsa classes",
+      "salsa"
+    ],
+    "values": [
+      "casual shoes",
+      "jackets",
+      "heels",
+      "dresses",
+      "capris"
+    ]
+  },
+  "subtle and charming": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "casual shoes",
+      "handbags",
+      "flats",
+      "heels"
+    ]
+  },
+  "dance": {
+    "type": "broad_occasions",
+    "synonyms": [
+      "dance",
+      "dance classes",
+      "dances"
+    ],
+    "values": [
+      "casual shoes",
+      "jackets",
+      "heels",
+      "dresses",
+      "shorts",
+      "capris",
+      "tshirts"
+    ]
+  },
+  "elegant wedding outfit": {
+    "type": "occasions",
+    "synonyms": [
+      "elegant wedding outfit",
+      "wedding reception",
+      "elegant wedding"
+    ],
+    "values": [
+      "handbags",
+      "flats",
+      "heels",
+      "dresses",
+      "kurtas"
+    ]
+  },
+  "elegant festival outfit": {
+    "type": "occasions",
+    "synonyms": [
+      "elegant festival outfit",
+      "elegant festival"
+    ],
+    "values": [
+      "handbags",
+      "flats",
+      "heels",
+      "dresses",
+      "tops",
+      "sweaters",
+      "kurtas"
+    ]
+  },
+  "simple festival outfit": {
+    "type": "occasions",
+    "synonyms": [
+      "simple festival outfit",
+      "simple festival"
+    ],
+    "values": [
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "tops",
+      "sweaters",
+      "kurtas"
+    ]
+  },
+  "heavy festival outfit": {
+    "type": "occasions",
+    "synonyms": [
+      "heavy festival outfit",
+      "heavy festival"
+    ],
+    "values": [
+      "handbags",
+      "flats",
+      "heels",
+      "dresses",
+      "tops",
+      "kurtas"
+    ]
+  },
+  "simple wedding outfit": {
+    "type": "occasions",
+    "synonyms": [
+      "simple wedding outfit",
+      "simple wedding"
+    ],
+    "values": [
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "tops",
+      "sweaters",
+      "kurtas"
+    ]
+  },
+  "should be roomy and big": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "handbags"
+    ]
+  },
+  "heavy wedding outfit": {
+    "type": "occasions",
+    "synonyms": [
+      "heavy wedding outfit",
+      "heavy wedding"
+    ],
+    "values": [
+      "handbags",
+      "flats",
+      "heels",
+      "dresses",
+      "tops",
+      "kurtas"
+    ]
+  },
+  "festival": {
+    "type": "broad_occasions",
+    "synonyms": [
+      "festival",
+      "festivals"
+    ],
+    "values": [
+      "handbags",
+      "jackets",
+      "flats",
+      "heels",
+      "dresses",
+      "tops",
+      "sweaters",
+      "kurtas"
+    ]
+  },
+  "workout/gym/running": {
+    "type": "occasions",
+    "synonyms": [
+      "workout/gym/running"
+    ],
+    "values": [
+      "jackets",
+      "shorts",
+      "capris",
+      "tshirts"
+    ]
+  },
+  "yoga": {
+    "type": "occasions",
+    "synonyms": [
+      "yoga"
+    ],
+    "values": [
+      "jackets",
+      "shorts",
+      "capris",
+      "tshirts"
+    ]
+  },
+  "zumba classes": {
+    "type": "occasions",
+    "synonyms": [
+      "zumba classes"
+    ],
+    "values": [
+      "jackets",
+      "shorts",
+      "capris",
+      "tshirts"
+    ]
+  },
+  "adventure": {
+    "type": "occasions",
+    "synonyms": [
+      "adventure"
+    ],
+    "values": [
+      "jackets",
+      "shorts",
+      "capris",
+      "tshirts"
+    ]
+  },
+  "trekking": {
+    "type": "occasions",
+    "synonyms": [
+      "trekking",
+      "adventure",
+      "mountain climbing"
+    ],
+    "values": [
+      "jackets",
+      "shorts",
+      "capris",
+      "sweaters",
+      "tshirts"
+    ]
+  },
+  "sports wear": {
+    "type": "broad_occasions",
+    "synonyms": [
+      "sports wear"
+    ],
+    "values": [
+      "jackets",
+      "shorts",
+      "capris",
+      "tshirts"
+    ]
+  },
+  "honeymoon": {
+    "type": "occasions",
+    "synonyms": [
+      "honeymoon",
+      "honey moon"
+    ],
+    "values": [
+      "flats",
+      "dresses",
+      "capris",
+      "kurtas"
+    ]
+  },
+  "formal office wear look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "flats"
+    ]
+  },
+  "for maternity": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "dresses",
+      "sweatshirts",
+      "tops",
+      "sweaters",
+      "trousers",
+      "kurtas",
+      "tshirts"
+    ]
+  },
+  "delicate and feminine": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "dresses",
+      "capris",
+      "shirts",
+      "kurtas"
+    ]
+  },
+  "cool and relaxing": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "dresses",
+      "capris"
+    ]
+  },
+  "casual look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shorts",
+      "jumpsuits",
+      "jeggings",
+      "capris",
+      "trousers"
+    ]
+  },
+  "party look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shorts",
+      "jumpsuits",
+      "jeggings",
+      "trousers"
+    ]
+  },
+  "water park/water adventure": {
+    "type": "occasions",
+    "synonyms": [
+      "water park/water adventure"
+    ],
+    "values": [
+      "shorts",
+      "capris",
+      "tshirts"
+    ]
+  },
+  "bright and stimulating (reds, oranges, yellows etc)": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "sweatshirts",
+      "sweaters",
+      "tshirts"
+    ]
+  },
+  "long flight/airport look": {
+    "type": "occasions",
+    "synonyms": [
+      "long flight",
+      "airport",
+      "airport looks",
+      "airport look",
+      "travel by flight"
+    ],
+    "values": [
+      "sweatshirts"
+    ]
+  },
+  "cool and relaxing (blues, greens, violets)": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "sweatshirts",
+      "jumpsuits",
+      "sweaters",
+      "trousers",
+      "tshirts"
+    ]
+  },
+  "dignified and powerful (blacks, browns, navy blue etc)": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "sweatshirts",
+      "jeggings",
+      "sweaters",
+      "trousers",
+      "tshirts"
+    ]
+  },
+  "delicate and feminine (coral, peach etc)": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "sweatshirts",
+      "sweaters",
+      "trousers",
+      "tshirts"
+    ]
+  },
+  "maternity": {
+    "type": "broad_occasions",
+    "synonyms": [
+      "maternity",
+      "pregnant"
+    ],
+    "values": [
+      "sweatshirts",
+      "sweaters"
+    ]
+  },
+  "semi-formal look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "tops",
+      "shirts"
+    ]
+  },
+  "anniversary look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "jeggings"
+    ]
+  },
+  "college look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "capris"
+    ]
+  },
+  "office wear look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "sweaters"
+    ]
+  },
+  "daily casual": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "sweaters"
+    ]
+  },
+  "college wear look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "sweaters"
+    ]
+  },
+  "funeral": {
+    "type": "broad_occasions",
+    "synonyms": [
+      "funeral",
+      "grave"
+    ],
+    "values": [
+      "sweaters"
+    ]
+  },
+  "elegant festival look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "trousers"
+    ]
+  },
+  "lunch/brunch/dinner/movie": {
+    "type": "occasions",
+    "synonyms": [
+      "lunch",
+      "lunch/brunch/dinner/movie",
+      "dinner",
+      "brunch",
+      "movie"
+    ],
+    "values": [
+      "trousers"
+    ]
+  },
+  "for zumba": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "trousers"
+    ]
+  },
+  "for adventures": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "trousers"
+    ]
+  },
+  "hot": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "trousers",
+      "tshirts"
+    ]
+  },
+  "heavy festival look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "trousers"
+    ]
+  },
+  "semi-formal": {
+    "type": "occasions",
+    "synonyms": [
+      "semi-formal",
+      "semi formal",
+      "semi formal office wear"
+    ],
+    "values": [
+      "trousers"
+    ]
+  },
+  "daily wear/college": {
+    "type": "occasions",
+    "synonyms": [
+      "daily wear/college",
+      "college",
+      "daily wear",
+      "everyday wear",
+      "everyday use",
+      "daily use",
+      "normal wear",
+      "normal use"
+    ],
+    "values": [
+      "trousers"
+    ]
+  },
+  "birthday/anniversary": {
+    "type": "occasions",
+    "synonyms": [
+      "birthday",
+      "birthday/anniversary",
+      "anniversary"
+    ],
+    "values": [
+      "trousers"
+    ]
+  },
+  "formal": {
+    "type": "occasions",
+    "synonyms": [
+      "formal",
+      "formals",
+      "formal office wear",
+      "formal work wear",
+      "formal wear"
+    ],
+    "values": [
+      "trousers"
+    ]
+  },
+  "holiday trips": {
+    "type": "occasions",
+    "synonyms": [
+      "holiday trips",
+      "holidays",
+      "holiday",
+      "vacation"
+    ],
+    "values": [
+      "trousers"
+    ]
+  },
+  "for date": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "trousers"
+    ]
+  },
+  "for funeral": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "trousers"
+    ]
+  },
+  "for yoga": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "trousers"
+    ]
+  },
+  "for workout": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "trousers"
+    ]
+  },
+  "office wear": {
+    "type": "broad_occasions",
+    "synonyms": [
+      "office wear",
+      "office",
+      "work",
+      "workwear",
+      "work wear",
+      "officewear"
+    ],
+    "values": [
+      "trousers"
+    ]
+  },
+  "for college party": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts"
+    ]
+  },
+  "for concerts": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts",
+      "tshirts"
+    ]
+  },
+  "for anniversary": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts"
+    ]
+  },
+  "for cocktail party": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts"
+    ]
+  },
+  "hangouts": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts",
+      "tshirts"
+    ]
+  },
+  "for clubs": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts"
+    ]
+  },
+  "office party look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts"
+    ]
+  },
+  "cool and relaxing  ": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts"
+    ]
+  },
+  "for elegant festival": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts"
+    ]
+  },
+  "family ceremoney look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts"
+    ]
+  },
+  "for family dinner": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts"
+    ]
+  },
+  "birthday look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts"
+    ]
+  },
+  "for date nights": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts"
+    ]
+  },
+  "birthday party look": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts"
+    ]
+  },
+  "for evening party": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "shirts"
+    ]
+  },
+  "special occasions - heavy": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "kurtas"
+    ]
+  },
+  "special occasions - simple": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "kurtas"
+    ]
+  },
+  "for pool party": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "tshirts"
+    ]
+  },
+  "for family dinners": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "tshirts"
+    ]
+  },
+  "blues": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "jeans"
+    ]
+  },
+  "light colored": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "jeans"
+    ]
+  },
+  "blacks": {
+    "type": "occasions",
+    "synonyms": [],
+    "values": [
+      "jeans"
+    ]
+  }
+}

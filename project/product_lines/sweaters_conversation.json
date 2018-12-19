@@ -1,0 +1,452 @@
+[
+  {
+    "answers": [],
+    "benefits": [],
+    "next": "1",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1"
+    ],
+    "benefits": [
+      "comfortable_stylish_feel"
+    ],
+    "next": "2",
+    "reason": "which are work appropriate and can be fashionable with a tad of conservativeness keeping in mind the formal look."
+  },
+  {
+    "answers": [
+      "1",
+      "7"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "10"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "11"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "12"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2"
+    ],
+    "benefits": [
+      "trendy_look"
+    ],
+    "next": "2",
+    "reason": "that are casual with trendy looks"
+  },
+  {
+    "answers": [
+      "2",
+      "7"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "9"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3"
+    ],
+    "benefits": [
+      "voguish_look"
+    ],
+    "next": "2",
+    "reason": "with trendy styles and keeps you warm and chic"
+  },
+  {
+    "answers": [
+      "3",
+      "7"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "11"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "12"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "4"
+    ],
+    "benefits": [
+      "classy_look"
+    ],
+    "next": "2",
+    "reason": "which are stylish and trendy"
+  },
+  {
+    "answers": [
+      "4",
+      "7"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "4",
+      "8"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "4",
+      "9"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "4",
+      "10"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "4",
+      "11"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "4",
+      "12"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5"
+    ],
+    "benefits": [
+      "cozy_feel"
+    ],
+    "next": "2",
+    "reason": "which are sophsticated with smart looks"
+  },
+  {
+    "answers": [
+      "5",
+      "7"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "8"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "9"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "10"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "11"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "12"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "6"
+    ],
+    "benefits": [
+      "dressy_look"
+    ],
+    "next": "2",
+    "reason": "that are dressy and can be worn for casual occasions"
+  },
+  {
+    "answers": [
+      "6",
+      "7"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "6",
+      "8"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "6",
+      "9"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "6",
+      "10"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "6",
+      "11"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "6",
+      "12"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  }
+]

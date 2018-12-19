@@ -1,0 +1,20 @@
+{
+	"start" : [
+		"price_question", "dimensions_question"
+	],
+	"dimensions_question_1" : [
+		"primary_camera", "secondary_camera"
+	],
+	"dimensions_question_2" : [
+		"display_size", "display_type"
+	],
+	"dimensions_question_3" : [
+		"battery_comsumption","battery_usage"
+	],
+	"dimensions_question_4" : [
+		"performance_games", "performance_app"
+	],
+	"dimensions_question_5" : [
+		"memory_internal", "memory_external"
+	]
+}

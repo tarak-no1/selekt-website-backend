@@ -1,0 +1,174 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Office Wear"
+      },
+      {
+        "key": "2",
+        "value": "Casual Wear"
+      },
+      {
+        "key": "3",
+        "value": "Party Wear"
+      },
+      {
+        "key": "4",
+        "value": "Workout Wear"
+      },
+      {
+        "key": "5",
+        "value": "Travel/Holiday Wear"
+      }
+    ]
+  },
+  "2": {
+    "text": "What dress code are you looking for?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "6",
+        "value": "Semi-Formal"
+      },
+      {
+        "key": "7",
+        "value": "Casual"
+      }
+    ]
+  },
+  "3": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "8",
+        "value": "Lunch/Brunch/Dinner/Movie"
+      },
+      {
+        "key": "9",
+        "value": "Daily wear/College"
+      },
+      {
+        "key": "10",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "11",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "4": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "12",
+        "value": "Cocktail/Office Party"
+      },
+      {
+        "key": "13",
+        "value": "Birthday/Anniversary/Date"
+      },
+      {
+        "key": "14",
+        "value": "Clubbing/House Party"
+      },
+      {
+        "key": "15",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "16",
+        "value": "Other events"
+      }
+    ]
+  },
+  "5": {
+    "text": "How cold is it?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "17",
+        "value": "Not Cold at all"
+      },
+      {
+        "key": "18",
+        "value": "Mild Cold"
+      },
+      {
+        "key": "19",
+        "value": "Moderate Cold"
+      },
+      {
+        "key": "20",
+        "value": "Extreme Cold"
+      }
+    ]
+  },
+  "6": {
+    "text": "How is the Weather like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "21",
+        "value": "Windy"
+      },
+      {
+        "key": "22",
+        "value": "Rainy"
+      },
+      {
+        "key": "23",
+        "value": "Neither Windy nor Rainy"
+      }
+    ]
+  },
+  "7": {
+    "text": "Does your trip involve a lot of Outdoor Activities?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "24",
+        "value": "No"
+      },
+      {
+        "key": "25",
+        "value": "Yes"
+      }
+    ]
+  },
+  "8": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "26",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "27",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "28",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "29",
+        "value": "Cool and Relaxing (Blues, Greens, Violets)"
+      },
+      {
+        "key": "30",
+        "value": "Colorful"
+      },
+      {
+        "key": "31",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Office Wear"
+      },
+      {
+        "key": "2",
+        "value": "Casual Wear"
+      },
+      {
+        "key": "3",
+        "value": "Party Wear"
+      }
+    ]
+  },
+  "2": {
+    "text": "What dress code are you looking for?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "4",
+        "value": "Semi-Formal"
+      },
+      {
+        "key": "5",
+        "value": "Casual"
+      }
+    ]
+  },
+  "3": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "6",
+        "value": "Birthday/Anniversary/Date"
+      },
+      {
+        "key": "7",
+        "value": "Cocktail/Office Party"
+      },
+      {
+        "key": "8",
+        "value": "Clubbing/House Party"
+      },
+      {
+        "key": "9",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "10",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "4": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "11",
+        "value": "Blacks (Black, Charcoal etc)"
+      },
+      {
+        "key": "12",
+        "value": "Blues (Navy Blue, Light Blue, Indigo etc.)"
+      },
+      {
+        "key": "13",
+        "value": "Light colored (White, nudes)"
+      },
+      {
+        "key": "14",
+        "value": "No Preferences"
+      },
+      {
+        "key": "15",
+        "value": "Colorful (Red, Orange, Yellow etc.)"
+      }
+    ]
+  },
+  "5": {
+    "text": "What type of style you wish to project?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "16",
+        "value": "Bold & Attractive"
+      },
+      {
+        "key": "17",
+        "value": "Conseravtive & Elegant"
+      },
+      {
+        "key": "18",
+        "value": "Neither Bold nor Conservative"
+      },
+      {
+        "key": "19",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

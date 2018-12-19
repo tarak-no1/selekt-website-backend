@@ -1,0 +1,104 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Office Wear"
+      },
+      {
+        "key": "2",
+        "value": "Casual Wear"
+      },
+      {
+        "key": "3",
+        "value": "Party Wear"
+      }
+    ]
+  },
+  "2": {
+    "text": "What dress code are you looking for?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "4",
+        "value": "Semi-Formal"
+      },
+      {
+        "key": "5",
+        "value": "Casual"
+      }
+    ]
+  },
+  "3": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "6",
+        "value": "Cocktail/Office Party"
+      },
+      {
+        "key": "7",
+        "value": "Birthday/Anniversary/Date"
+      },
+      {
+        "key": "8",
+        "value": "Clubbing/House Party"
+      },
+      {
+        "key": "9",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "10",
+        "value": "Other events"
+      }
+    ]
+  },
+  "4": {
+    "text": "How is the Weather like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "11",
+        "value": "Hot"
+      },
+      {
+        "key": "12",
+        "value": "Cold"
+      }
+    ]
+  },
+  "5": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "13",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "14",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "15",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "16",
+        "value": "Cool and Relaxing (Blues, Greens, Violets)"
+      },
+      {
+        "key": "17",
+        "value": "Colorful"
+      },
+      {
+        "key": "18",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

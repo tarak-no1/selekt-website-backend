@@ -1,0 +1,102 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Office Wear"
+      },
+      {
+        "key": "2",
+        "value": "Casual Wear"
+      },
+      {
+        "key": "3",
+        "value": "Party Wear"
+      }
+    ]
+  },
+  "2": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "4",
+        "value": "Lunch/Brunch/Dinner/Movie"
+      },
+      {
+        "key": "5",
+        "value": "Daily wear/College"
+      },
+      {
+        "key": "6",
+        "value": "Holiday Trips"
+      },
+      {
+        "key": "7",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "8",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "3": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "9",
+        "value": "Clubbing/House Party"
+      },
+      {
+        "key": "10",
+        "value": "College Party"
+      },
+      {
+        "key": "11",
+        "value": "Birthday/Anniversary"
+      },
+      {
+        "key": "12",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "13",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "4": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "14",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "15",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "16",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "17",
+        "value": "Cool and Relaxing (Blues, Greens, Violets)"
+      },
+      {
+        "key": "18",
+        "value": "Colorful"
+      },
+      {
+        "key": "19",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

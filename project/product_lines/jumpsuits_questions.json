@@ -1,0 +1,152 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Office Wear"
+      },
+      {
+        "key": "2",
+        "value": "Casual Wear"
+      },
+      {
+        "key": "3",
+        "value": "Party Wear"
+      }
+    ]
+  },
+  "2": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "4",
+        "value": "Lunch/Brunch/Dinner/Movie"
+      },
+      {
+        "key": "5",
+        "value": "Beach wear"
+      },
+      {
+        "key": "6",
+        "value": "Daily wear/College"
+      },
+      {
+        "key": "7",
+        "value": "Holiday Trips"
+      },
+      {
+        "key": "8",
+        "value": "Date"
+      },
+      {
+        "key": "9",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "10",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "3": {
+    "text": "Do u want an all season wear?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "11",
+        "value": "Yes"
+      },
+      {
+        "key": "12",
+        "value": "No"
+      }
+    ]
+  },
+  "4": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "13",
+        "value": "Clubbing/House Party"
+      },
+      {
+        "key": "14",
+        "value": "College Party"
+      },
+      {
+        "key": "15",
+        "value": "Birthday/Anniversary"
+      },
+      {
+        "key": "16",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "17",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "5": {
+    "text": "Is the event happening indoor or outdoor?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "18",
+        "value": "Indoor"
+      },
+      {
+        "key": "19",
+        "value": "Outdoor"
+      }
+    ]
+  },
+  "6": {
+    "text": "Is it during day or night?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "20",
+        "value": "Day"
+      },
+      {
+        "key": "21",
+        "value": "Night"
+      }
+    ]
+  },
+  "7": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "22",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "23",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "24",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "25",
+        "value": "Cool and Relaxing (Blues, Greens, Violets)"
+      },
+      {
+        "key": "26",
+        "value": "Colorful"
+      },
+      {
+        "key": "27",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

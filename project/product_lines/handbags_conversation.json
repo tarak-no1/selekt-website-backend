@@ -1,0 +1,6134 @@
+[
+  {
+    "answers": [],
+    "benefits": [],
+    "next": "1",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1"
+    ],
+    "benefits": [
+      "casual_wear"
+    ],
+    "next": "2",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "1",
+      "4"
+    ],
+    "benefits": [
+      "classy_regular_look"
+    ],
+    "next": "6",
+    "reason": "which has detailing to make it look classy, regular size but not too bulky"
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5"
+    ],
+    "benefits": [
+      "cool_big_look"
+    ],
+    "next": "6",
+    "reason": "which are big enough to carry things and yet look cool. Experiment with patterns and colors."
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6"
+    ],
+    "benefits": [
+      "experimental_look"
+    ],
+    "next": "6",
+    "reason": "which can carry bare essentials, easy to carry. Experiment with patterns and colors."
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "6",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7"
+    ],
+    "benefits": [
+      "washable_big_use"
+    ],
+    "next": "6",
+    "reason": "which can carry a lot of stuff, and easily washable"
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8"
+    ],
+    "benefits": [
+      "classy_regular_look"
+    ],
+    "next": "6",
+    "reason": "which has detailing to make it look classy, regular size but not too bulky"
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9"
+    ],
+    "benefits": [
+      "cool_big_look"
+    ],
+    "next": "6",
+    "reason": "which are big enough to carry things and yet look cool. Experiment with patterns and colors."
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "9",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2"
+    ],
+    "benefits": [
+      "party_wear"
+    ],
+    "next": "3",
+    "reason": "which are moderately blingy, elegant and avoid bright and radiant patterns"
+  },
+  {
+    "answers": [
+      "2",
+      "10"
+    ],
+    "benefits": [
+      "classy_minimal_look"
+    ],
+    "next": "6",
+    "reason": "which can carry minimum essentials, have a classy look, less detailing and not too blingy"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "10",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11"
+    ],
+    "benefits": [
+      "blingy_minimal_look"
+    ],
+    "next": "6",
+    "reason": "which can carry minimum essentials, have a classy look, blingy and with detailing"
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12"
+    ],
+    "benefits": [
+      "classy_minimal_look"
+    ],
+    "next": "6",
+    "reason": "which can carry minimum essentials, have a classy look, less detailing and not too blingy"
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13"
+    ],
+    "benefits": [
+      "detailing_look"
+    ],
+    "next": "6",
+    "reason": "which have detailing and regular sized. Experiment with blingyness, patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "13",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14"
+    ],
+    "benefits": [
+      "detailing_look"
+    ],
+    "next": "6",
+    "reason": "which have detailing and regular sized. Experiment with blingyness, patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "14",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15"
+    ],
+    "benefits": [
+      "detailing_look"
+    ],
+    "next": "6",
+    "reason": "which have detailing and regular sized. Experiment with blingyness, patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "15",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16"
+    ],
+    "benefits": [
+      "detailing_look"
+    ],
+    "next": "6",
+    "reason": "which have detailing and regular sized. Experiment with blingyness, patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "16",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17"
+    ],
+    "benefits": [
+      "detailing_look"
+    ],
+    "next": "6",
+    "reason": "which have detailing and regular sized. Experiment with blingyness, patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "17",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3"
+    ],
+    "benefits": [
+      "office_wear"
+    ],
+    "next": "4",
+    "reason": "which are work appropriate and can be fashionable with a tad of conservativeness keeping in mind the formal look."
+  },
+  {
+    "answers": [
+      "3",
+      "18"
+    ],
+    "benefits": [
+      "professional_look"
+    ],
+    "next": "6",
+    "reason": "with a formal look and which can carry a lot of stuff. Avoid experimentation"
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "18",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19"
+    ],
+    "benefits": [
+      "comfortable_stylish_feel"
+    ],
+    "next": "6",
+    "reason": "which are less blingy and with detailing thus suiting office occasion. You can experiment with colors and patterns to some extent."
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "20"
+    ],
+    "benefits": [
+      "functional"
+    ],
+    "next": "5",
+    "reason": "which are big enough to carry a lot of stuff. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "20",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "20",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "20",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "20",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "21"
+    ],
+    "benefits": [
+      "functional_small"
+    ],
+    "next": "5",
+    "reason": "which are enough to carry your essentials. Experiment with patterns and colors"
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "21",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "21",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "21",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "21",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "22"
+    ],
+    "benefits": [
+      "aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are appealing to look at, do not have functional use"
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "22",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "22",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "22",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "22",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "23"
+    ],
+    "benefits": [
+      "fuctional_aesthetic"
+    ],
+    "next": "5",
+    "reason": "that are designed to meet the needs and look good at the same time"
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "23",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "23",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "23",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "23",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "24"
+    ],
+    "benefits": [],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "24",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "24",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "24",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "24",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "25"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "5",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "25",
+      "26"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "25",
+      "27"
+    ],
+    "benefits": [
+      "classic_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "25",
+      "28"
+    ],
+    "benefits": [
+      "charming_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "19",
+      "25",
+      "29"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  }
+]

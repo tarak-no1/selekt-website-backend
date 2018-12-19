@@ -1,0 +1,154 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Casual"
+      },
+      {
+        "key": "2",
+        "value": "Party/Special Occasion"
+      },
+      {
+        "key": "3",
+        "value": "Work"
+      }
+    ]
+  },
+  "2": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "4",
+        "value": "Lunch/Brunch/Dinner/Movie"
+      },
+      {
+        "key": "5",
+        "value": "Daily Use/College"
+      },
+      {
+        "key": "6",
+        "value": "Holidays"
+      },
+      {
+        "key": "7",
+        "value": "Beach Use"
+      },
+      {
+        "key": "8",
+        "value": "Other Events"
+      },
+      {
+        "key": "9",
+        "value": "Not for any specific event"
+      }
+    ]
+  },
+  "3": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "10",
+        "value": "Cocktail/Office Party"
+      },
+      {
+        "key": "11",
+        "value": "Clubbing/House Party"
+      },
+      {
+        "key": "12",
+        "value": "College Party"
+      },
+      {
+        "key": "13",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "14",
+        "value": "Birthday/Anniversary"
+      },
+      {
+        "key": "15",
+        "value": "Date"
+      },
+      {
+        "key": "16",
+        "value": "Festivals/Weddings"
+      },
+      {
+        "key": "17",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "4": {
+    "text": "What dress code are you looking for?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "18",
+        "value": "Formal"
+      },
+      {
+        "key": "19",
+        "value": "Casual"
+      }
+    ]
+  },
+  "5": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "25",
+        "value": "Colorful and Fun"
+      },
+      {
+        "key": "26",
+        "value": "Bright and Impressive (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "27",
+        "value": "Classic and Elegant (Black, White, Navy Blue etc)"
+      },
+      {
+        "key": "28",
+        "value": "Subtle and Charming (Peach, Coral, Light Blue etc)"
+      },
+      {
+        "key": "29",
+        "value": "No Preferences"
+      }
+    ]
+  },
+  "6": {
+    "text": "What are you looking for in a handbag?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "20",
+        "value": "Should be Roomy and Big (Don�t care about looks)"
+      },
+      {
+        "key": "21",
+        "value": "Should be Small and hold essentials (Don�t care about looks)"
+      },
+      {
+        "key": "22",
+        "value": "Should look Good (Don�t care about functional use)"
+      },
+      {
+        "key": "23",
+        "value": "Be functional and look good too"
+      },
+      {
+        "key": "24",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

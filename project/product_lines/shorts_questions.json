@@ -1,0 +1,152 @@
+{
+  "1": {
+    "text": "What's the purpose?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "1",
+        "value": "Casual Wear"
+      },
+      {
+        "key": "2",
+        "value": "Party Wear"
+      },
+      {
+        "key": "3",
+        "value": "Sports Wear"
+      }
+    ]
+  },
+  "2": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "4",
+        "value": "Beach"
+      },
+      {
+        "key": "5",
+        "value": "Lunch/Brunch/Dinner/Movie"
+      },
+      {
+        "key": "6",
+        "value": "Daily wear/College"
+      },
+      {
+        "key": "7",
+        "value": "Holiday Trips"
+      },
+      {
+        "key": "8",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "9",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "3": {
+    "text": "Are you shopping for a specific event?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "10",
+        "value": "Pool Party"
+      },
+      {
+        "key": "11",
+        "value": "Clubbing/House Party"
+      },
+      {
+        "key": "12",
+        "value": "College Party"
+      },
+      {
+        "key": "13",
+        "value": "Not for any specific event"
+      },
+      {
+        "key": "14",
+        "value": "Other Events"
+      }
+    ]
+  },
+  "4": {
+    "text": "Is the event happening indoor or outdoor?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "15",
+        "value": "Indoor"
+      },
+      {
+        "key": "16",
+        "value": "Outdoor"
+      }
+    ]
+  },
+  "5": {
+    "text": "Is it during day or night?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "17",
+        "value": "Day"
+      },
+      {
+        "key": "18",
+        "value": "Night"
+      }
+    ]
+  },
+  "6": {
+    "text": "What kind of color appearance do you like?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "19",
+        "value": "Dignified and Powerful (Blacks, Browns, Navy Blue etc)"
+      },
+      {
+        "key": "20",
+        "value": "Delicate and Feminine (Coral, Peach etc)"
+      },
+      {
+        "key": "21",
+        "value": "Bright and Stimulating (Reds, Oranges, Yellows etc)"
+      },
+      {
+        "key": "22",
+        "value": "Cool and Relaxing (Blues, Greens, Violets)"
+      },
+      {
+        "key": "23",
+        "value": "Colorful"
+      },
+      {
+        "key": "24",
+        "value": "No Preferences"
+      }
+    ]
+  },
+  "7": {
+    "text": "What type of style you wish to project?",
+    "type": "single_select",
+    "options": [
+      {
+        "key": "25",
+        "value": "Bold"
+      },
+      {
+        "key": "26",
+        "value": "Moderately Bold"
+      },
+      {
+        "key": "27",
+        "value": "No Preferences"
+      }
+    ]
+  }
+}

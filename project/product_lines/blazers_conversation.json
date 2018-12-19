@@ -1,0 +1,1297 @@
+[
+  {
+    "answers": [],
+    "benefits": [],
+    "next": "1",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1"
+    ],
+    "benefits": [
+      "office_wear"
+    ],
+    "next": "2",
+    "reason": "which are work appropriate and can be fashionable with a tad of conservativeness keeping in mind the formal look."
+  },
+  {
+    "answers": [
+      "1",
+      "4"
+    ],
+    "benefits": [
+      "professional_look"
+    ],
+    "next": "5",
+    "reason": "which are formal looking that will make you look both smart and stylish"
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "1",
+      "5"
+    ],
+    "benefits": [
+      "comfortable_stylish_feel"
+    ],
+    "next": "5",
+    "reason": "with a comfortable feel, stylish and fashionable look and work appropriate"
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "2"
+    ],
+    "benefits": [
+      "comfortable_look"
+    ],
+    "next": "4",
+    "reason": "with a comfortable feel and also be experimental and stylish"
+  },
+  {
+    "answers": [
+      "2",
+      "11"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "5",
+    "reason": "which are breezy and adds and element of chicness"
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "2",
+      "12"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "5",
+    "reason": "which are thick and warm and has a functional purpose"
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "3"
+    ],
+    "benefits": [
+      "party_wear"
+    ],
+    "next": "3",
+    "reason": "which are blingy, bold and with a fair amount of detailing.Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "6"
+    ],
+    "benefits": [
+      "classy_delicate_look"
+    ],
+    "next": "4",
+    "reason": "which gives a chic look and has delicate detailings and structured silhouettes"
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "11"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "5",
+    "reason": "which are breezy and adds and element of chicness"
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "11",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "12"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "5",
+    "reason": "which are thick and warm and has a functional purpose"
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "12",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "3",
+      "7"
+    ],
+    "benefits": [
+      "less_blingy_look"
+    ],
+    "next": "4",
+    "reason": "which are less blingy and has minimal detailing. Pattern & Colors can be experimented"
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "11"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "5",
+    "reason": "which are breezy and adds and element of chicness"
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "11",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "12"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "5",
+    "reason": "which are thick and warm and has a functional purpose"
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "12",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "3",
+      "8"
+    ],
+    "benefits": [
+      "detailed_look"
+    ],
+    "next": "4",
+    "reason": "which are blingy, bold and with a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "11"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "5",
+    "reason": "which are breezy and adds and element of chicness"
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "11",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "12"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "5",
+    "reason": "which are thick and warm and has a functional purpose"
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "12",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "3",
+      "9"
+    ],
+    "benefits": [
+      "detailed_look"
+    ],
+    "next": "4",
+    "reason": "which are blingy, bold and with a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "11"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "5",
+    "reason": "which are breezy and adds and element of chicness"
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "11",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "12"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "5",
+    "reason": "which are thick and warm and has a functional purpose"
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "12",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "3",
+      "10"
+    ],
+    "benefits": [
+      "classy_delicate_look"
+    ],
+    "next": "4",
+    "reason": "which gives a chic look and has delicate detailings and structured silhouettes"
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "11"
+    ],
+    "benefits": [
+      "warm_feel"
+    ],
+    "next": "5",
+    "reason": "which are breezy and adds and element of chicness"
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "11",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "12"
+    ],
+    "benefits": [
+      "functional_look"
+    ],
+    "next": "5",
+    "reason": "which are thick and warm and has a functional purpose"
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "12",
+      "13"
+    ],
+    "benefits": [
+      "powerful_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking,elegant and classy,?and have a powerful look."
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "11",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "12",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "11",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "12",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "11",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "12",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "11",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "12",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "11",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "12",
+      "14"
+    ],
+    "benefits": [
+      "feminine_look"
+    ],
+    "next": "result",
+    "reason": "with feminine appeal which are pleasantly subtle, soft, or faint?"
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "11",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "12",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "11",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "12",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "11",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "12",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "11",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "12",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "11",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "12",
+      "15"
+    ],
+    "benefits": [
+      "bright_look"
+    ],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "11",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "12",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "11",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "12",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "11",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "12",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "11",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "12",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "11",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "12",
+      "16"
+    ],
+    "benefits": [
+      "relaxing_look"
+    ],
+    "next": "result",
+    "reason": "which tend to make you feel calm, relaxed and refreshed, are comforting and nurturing."
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "11",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "12",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "11",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "12",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "11",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "12",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "11",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "12",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "11",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "12",
+      "17"
+    ],
+    "benefits": [
+      "colorful_look"
+    ],
+    "next": "result",
+    "reason": "which have bright colours or a lot of different colours and are lively and exciting."
+  },
+  {
+    "answers": [
+      "1",
+      "4",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "5",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "11",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "12",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "11",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "6",
+      "12",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "11",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "7",
+      "12",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "11",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8",
+      "12",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "11",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "9",
+      "12",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "11",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "10",
+      "12",
+      "18"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  }
+]
